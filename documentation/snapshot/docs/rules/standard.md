@@ -2209,6 +2209,8 @@ Suppress or disable rule (1)
 
 ## No consecutive blank lines
 
+Disallows having two or more consecutive blank lines.
+
 === "[:material-heart:](#) Ktlint"
 
     ```kotlin
