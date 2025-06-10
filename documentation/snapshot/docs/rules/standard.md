@@ -2171,6 +2171,8 @@ Suppress or disable rule (1)
 
 ## No blank lines in chained method calls
 
+Disallows blank lines in chained method calls.
+
 === "[:material-heart:](#) Ktlint"
 
     ```kotlin
@@ -2264,6 +2266,8 @@ Suppress or disable rule (1)
 
 ## No empty (`{}`) class bodies
 
+Disallows empty class bodies.
+
 === "[:material-heart:](#) Ktlint"
 
     ```kotlin
@@ -2308,6 +2312,8 @@ Suppress or disable rule (1)
 
 ## No leading empty lines in method blocks
 
+Disallows blank lines in method blocks.
+
 === "[:material-heart:](#) Ktlint"
 
     ```kotlin
@@ -2344,7 +2350,7 @@ Suppress or disable rule (1)
 
 ## No line break after else
 
-Disallows line breaks after the else keyword if that could lead to confusion, for example:
+Disallows line breaks after the else keyword if that could lead to confusion.
 
 === "[:material-heart:](#) Ktlint"
 
@@ -2390,7 +2396,7 @@ Suppress or disable rule (1)
 
 ## No line break before assignment
 
-When a line is broken at an assignment (`=`) operator the break comes after the symbol.
+When a line is broken at an assignment (`=`) operator, the break comes after the symbol.
 
 === "[:material-heart:](#) Ktlint"
 
@@ -2425,7 +2431,7 @@ Suppress or disable rule (1)
 
 ## No multi spaces
 
-Except in indentation and in KDoc's it is not allowed to have multiple consecutive spaces.
+Except in indentation and in KDoc's, it is not allowed to have multiple consecutive spaces.
 
 === "[:material-heart:](#) Ktlint"
 
