@@ -2801,7 +2801,7 @@ Suppress or disable rule (1)
 
 ### Colon spacing
 
-Consistent spacing around colon.
+Requires consistent spacing around colon.
 
 === "[:material-heart:](#) Ktlint"
 
@@ -2838,7 +2838,7 @@ Suppress or disable rule (1)
 
 ### Comma spacing
 
-Consistent spacing around comma.
+Requires consistent spacing around comma.
 
 === "[:material-heart:](#) Ktlint"
 
