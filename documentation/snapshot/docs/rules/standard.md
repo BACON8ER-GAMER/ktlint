@@ -2927,7 +2927,7 @@ Suppress or disable rule (1)
 
 ### Curly spacing
 
-Consistent spacing around curly braces.
+Requires consistent spacing around curly braces.
 
 === "[:material-heart:](#) Ktlint"
 
@@ -2960,7 +2960,7 @@ Suppress or disable rule (1)
 
 ### Dot spacing
 
-Consistent spacing around dots.
+Requires consistent spacing around dots.
 
 === "[:material-heart:](#) Ktlint"
 
