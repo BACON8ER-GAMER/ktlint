@@ -3030,7 +3030,7 @@ Suppress or disable rule (1)
 
 ### Function return type spacing
 
-Consistent spacing around the function return type.
+Requires consistent spacing around the function return type.
 
 === "[:material-heart:](#) Ktlint"
 
@@ -3074,7 +3074,7 @@ Suppress or disable rule (1)
 
 ### Function start of body spacing
 
-Consistent spacing before start of function body.
+Requires consistent spacing before start of function body.
 
 === "[:material-heart:](#) Ktlint"
 
@@ -3146,7 +3146,7 @@ Suppress or disable rule (1)
 
 ### Function type reference spacing
 
-Consistent spacing in the type reference before a function.
+Requires consistent spacing in the type reference before a function.
 
 === "[:material-heart:](#) Ktlint"
 
@@ -3184,7 +3184,7 @@ Suppress or disable rule (1)
 
 ### Fun keyword spacing
 
-Consistent spacing after the fun keyword.
+Requires consistent spacing after the fun keyword.
 
 === "[:material-heart:](#) Ktlint"
 
