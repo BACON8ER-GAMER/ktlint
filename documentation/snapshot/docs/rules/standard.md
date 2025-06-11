@@ -2669,7 +2669,7 @@ Suppress or disable rule (1)
 
 ### Annotation spacing
 
-Annotations should be separated by a single line break.
+Annotations must be separated by a single line break.
 
 === "[:material-heart:](#) Ktlint"
 
@@ -2719,7 +2719,7 @@ Suppress or disable rule (1)
 
 ### Blank line between declarations with annotations
 
-Declarations with annotations should be separated by a blank line.
+Declarations with annotations must be separated by a blank line.
 
 === "[:material-heart:](#) Ktlint"
 
@@ -2757,7 +2757,7 @@ Suppress or disable rule (1)
 
 ### Blank line between declaration with comments
 
-Declarations with comments should be separated by a blank line.
+Declarations with comments must be separated by a blank line.
 
 === "[:material-heart:](#) Ktlint"
 
